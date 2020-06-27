@@ -1,0 +1,157 @@
+<mxfile host="" modified="2020-06-26T04:42:30.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="2cXtkqNKtzBjEQ2weLvL" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="5067" dy="2120" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;" parent="1" source="3" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A1. Outside Hangar&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Festers. Everywhere. Armed mostly with gas-powered rock flingers.&lt;br&gt;At least 10 of them guarding the hangar door. Typical&lt;br&gt;Could try punching your way through. Or sneaking the long way to the emergency exit.&lt;br&gt;&lt;br&gt;What should i do?&lt;br&gt;&lt;br&gt;1. Take them head on - rush the 10 guards.&lt;br&gt;2. Sneak your way to the emergency exit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-1748" y="-703" width="475" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A2. In a cell&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Well, that was pretty stupid. You sustain a brutal and end up dumped in a dirty cell. The bars are thick cast iron. The door is old and patched togather with plate metal and thick red wires.&lt;br&gt;&lt;br&gt;You have no idea where you are. And your head hurts.&lt;br&gt;&lt;br&gt;So what to do now, slugger ?&lt;br&gt;&lt;br&gt;1. Wait it out. My head hurts.&lt;br&gt;2. Slam into the door with all my might.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-2489" y="-246" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="21" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B2. Booby Trap&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;You stand up, a little groggily, back up to the far edge of the wall and make an almighty sprint towards the door.&lt;br&gt;&lt;br&gt;1. Countinue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-2185" y="209" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;X1. Game Over&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Well, that clearly wasn`t the right choice.&lt;br&gt;&lt;br&gt;You failed.&lt;br&gt;&lt;br&gt;No parade for you.&lt;br&gt;&lt;br&gt;Want to try again ?&lt;br&gt;1. Yes, this time i shall taste glory.&lt;br&gt;2. No, I`m going to go sulk for a while.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Fira Code;align=center;fontColor=#E6E6E6;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-1539" y="152" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#1A1A1A;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="16" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontFamily=Fira Code;fontSize=20;fontColor=#E6E6E6;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="16" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B1. Opening Door&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;You wait it out. After, perhaps, 20 minutes you hear feet shuffling. Keys jangle. The door starts to unlock.&lt;br&gt;&lt;br&gt;What to do?&lt;br&gt;&lt;br&gt;1. Wait a little longer, it seemed to work last time.&lt;br&gt;2. Rush the door and thrust a handful of knuckles through the chestplate of whoever enters.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-2793" y="209" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="31" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="31" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B3. Escape&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;The door opens and then... nothing. You peak outside and there is nobody there.&lt;br&gt;Well, thats odd.&lt;br&gt;Have you just been freed? And by whom? And why?&lt;br&gt;No time for that now. We have escaping to do. Whats the plan?&lt;br&gt;&lt;br&gt;1. Wait a bit longer&lt;br&gt;2. Get running&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-2508" y="631" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="36" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="36" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B6. Running&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;You run down a long corridor then up a flight of metal stairs. They make a loud racket as you clamber up them. Thank goodness the machinery in this place is so loud.&lt;br&gt;&lt;br&gt;In front of you is the emergency exit door. It has an oversized, cast iron lock hanging from a bolted handle.You could try picking the lock, or maybe look for a way to pry it off.&lt;br&gt;&lt;br&gt;What to do?&lt;br&gt;&lt;br&gt;1. Pick it&lt;br&gt;2. Pry iy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-1748" y="912" width="475" height="342" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="23" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B4. Friendy Fire&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;You tear off a piece of metal framing from your leather airship pilot armour and hold it ready as a shiv of shorts. As the door opens you rush at your captor, leaping like a crazy person and hollering a primal scream of rage.&lt;br&gt;&lt;br&gt;Payback time for your beating and from all the pain these dirty Festers have caused your family. You drive home your metal shiv. You hear the crunch of bones and feel the slice of flesh.&lt;br&gt;&lt;br&gt;After a brief struggle, there is stillness. You look down and see... oh my lord...you see.. yourself? What? How?&lt;br&gt;&lt;br&gt;1. Continue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-3097" y="631" width="475" height="414" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="33" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;B5. Waiting&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Not much happens, what would you like to do?&lt;br&gt;&lt;br&gt;1. Get running&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-2793" y="1216" width="475" height="205" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="9" target="41" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A3. Emergency Exit&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Okey, you`re around the corner. No one can see you. You think.&lt;br&gt;&lt;br&gt;Bit tough to hear yourself think above the thumping machinery. However, in front of you is the emergency exit door. It has an oversized, cast iron lock hanging from a bolted handle. You could try picking the lock, or maybe look for a way to pry it off.&lt;br&gt;&lt;br&gt;1. Pick it&amp;nbsp;&lt;br&gt;2. Pry it&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-988" y="-244" width="475" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="41" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A5. Lock Smashing&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Got to be something around here to help with some smashy smashy. You see a crate with all manner of pipes, wires and cogs scattered within it. Mostly trash.&lt;br&gt;&lt;br&gt;You could try the brute force approach - wack the lock with one of the pipes. Or you could take some time to build a contraption with some kind of leverage, maybe a mini pulley system with those wires and the cogs.&lt;br&gt;&lt;br&gt;How to proceed?&lt;br&gt;1. No time to waste, grab the pipe, start wacking&amp;nbsp;&lt;br&gt;2. Take the time to build a leverage-gadget.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-323" y="631" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="50" target="52">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;fillColor=#f5f5f5;strokeWidth=3;" edge="1" parent="1" source="50" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A6. Dark Room&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Right, well, that took far longer than anticipated but the lock is off and the door opened. Thank goodness for the Pumping Station being so loud.&lt;br&gt;&lt;br&gt;You`re in a dark room. You hear people yelling over the top of the combustion boilers. You catch some words. THUNK, THUNK,&quot;shut off the valves...&quot;, THUNK THUNK &quot;...for glory&quot;...THUNK THUNK...&lt;br&gt;&lt;br&gt;What next, Adventurer?&lt;br&gt;&lt;br&gt;1. Get closer to the people speaking.&lt;br&gt;2. Ignore them, keep pushing for the airship&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="361" y="631" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;strokeWidth=3;" edge="1" parent="1" source="56" target="60">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;strokeWidth=3;" edge="1" parent="1" source="56" target="64">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A8. Evesdropping&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;You slink through the machinery towards 2 skanky looking men. The tall, scrawny one is carrying an oversized gas-canister-powered arrow shooter, while the shorter dumpy man has strapped to him at least a dozen small glass bottles with grey liquid inside.&lt;br&gt;&lt;br&gt;The stout fellow finishes cranking a large valve ( clockwise you notice) and then both men dash off with much haste.&lt;br&gt;&lt;br&gt;1. Quick, uncrank that valve, they were clearly up to no good.&lt;br&gt;2. Chase the men.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="361" y="1159" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;strokeWidth=3;" edge="1" parent="1" source="64" target="66">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A10.. Narrow Escape&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;You take your cue from the two men and get on your horse. Figuratively of course, no one rides gorses since the combustamobile was invented.&lt;br&gt;&lt;br&gt;You zig. You zag. You weave through the huge machinery of the pumping station. Steam jets have started squirting out of pipes. Gears are grinding to a halt. You see the exit ahead.&lt;br&gt;&lt;br&gt;Something behind you gives a grinding screech. Metal eating into metal. You leap for the door and slide through on your stomach, just as all hell breaks lose behind you.&lt;br&gt;&lt;br&gt;1. Countinue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="361" y="1637" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#2D7600;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeWidth=3;" edge="1" parent="1" source="66" target="71">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-779" y="2090.333333333334" as="targetPoint"/>
+                        <mxPoint x="-779" y="1647.5" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#2D7600;strokeWidth=3;fillColor=#60a917;" edge="1" parent="1" source="66" target="68">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A11. Diversion&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;In front of you is the expanse of the airship hangar.&lt;br&gt;&lt;br&gt;Festers are running everywhere and mostly yelling at one another. Some men are clambering aboard airships, others are attempting to put out fires that have started from the explosion.&lt;br&gt;&lt;br&gt;Who were these men? Friend or foe? That will have to wait. Time to get out here.&lt;br&gt;&lt;br&gt;What now?&lt;br&gt;1. Mad sprint to the nearest airshiop.&lt;br&gt;2. Quick scrounge for weapons, then mad sprint to the nearest airship.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-399" y="1805" width="532" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;S2. Onboard With Supplies&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;You take what feels like an enternity to scrounge a rock flinger and 3 vials of tonix. When a huge machine cog lands an arm span from your head you decide its time to make your dash.&lt;br&gt;&lt;br&gt;You scramble aboard your airship. With all of your remaining strength, you lift the anchoring rope off its huge hook and give an all mighty shove.&lt;br&gt;&lt;br&gt;From behind you hear a surprised crew member. He rushes. You shoot.&lt;br&gt;Direct hit. Thank goodness for the weapon. You`re safe. Fow now.&lt;br&gt;&lt;br&gt;1. Continue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontFamily=Fira Code;align=left;labelBackgroundColor=none;fontSize=20;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-1311" y="1557" width="532" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.839;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;fillColor=#e51400;strokeWidth=3;" edge="1" parent="1" source="60" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A9. Pressure Build Up&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;You open up the valve (anti-clockwise), step back, and congratulate yourself on averting certain tragedy.Phew, that was close.&lt;br&gt;&lt;br&gt;As you stand pondering your next move, you hear a popping noise, as if a huge build up of steam has cause the rivet of a boiler to be expunged lika a squeezed whitehead on a teenager`s forehead.&lt;br&gt;&lt;br&gt;Than another. Then another. Oh...maybe the men turned off more than on valve. You hear an almighty screeching as the huge gears and cogs start to jam. Then a deafening road.&lt;br&gt;&lt;br&gt;1. Continue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-323" y="1159" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;" edge="1" parent="1" source="52" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A7. The Long Way Round&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Good thinking, no pointworrying about some random guys` plans to blow up the entire pumping station by shutting off the water cooling valves. I`m sure everything will be just fine. Nothing at all to worry about. Plenty of time to do what you need to do.&lt;br&gt;&lt;br&gt;You take quite some time, but eventually you make your way around the edge of the pumping station and see daylight.&lt;br&gt;&lt;br&gt;What! An almighty screech pierces the air. Gears grinding. Steam spooshing from cracks in pipes. And then, a deafening roar...&lt;br&gt;&lt;br&gt;1. Continue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="361" y="133" width="475" height="398" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="39" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;A4. Picking Lock&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;You give it a good 10 minutes. No dice. Not going to happen.&lt;br&gt;You do realise that you have no idea how to pick a lock right? You`re an airship pilot, not a common thief.&lt;br&gt;&lt;br&gt;So what now?&lt;br&gt;&lt;br&gt;1. Fine, try to pry it.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Fira Code;align=left;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="-988" y="437" width="475" height="285" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="41" target="50">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="152" y="969" as="sourcePoint"/>
+                        <mxPoint x="361" y="969" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;S1. Onboard But Only Just&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;You scramble aboard your airship, Whith all of your remaining strength, you lift the anchoring rope off its huge hook and give an all mighty shove.&lt;br&gt;&lt;br&gt;As you start to drift out of the hangar, you hear shouts of dismay from a nearby group of Festers.&lt;br&gt;&lt;br&gt;&quot;So long suckers! May we never meet again!&quot;, you holler. You may, you may not. Time will tell.&lt;br&gt;&lt;br&gt;You`ve won this battle. Now, on with the war!&lt;br&gt;&lt;br&gt;1. Continue...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontFamily=Fira Code;align=left;labelBackgroundColor=none;fontSize=20;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-1311" y="2052" width="532" height="398" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
